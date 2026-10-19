@@ -563,6 +563,6 @@ public class Main {
 
 ## References
 
-1. [FreeCodeCamp Blog](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
-2. [Medium Article](https://medium.com/@GetInRhythm/mastering-solid-principles-a-comprehensive-guide-for-software-engineers-da53b054c9e1)
-3. [GeeksForGeeks Article](https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/)
+1. [The SOLID Principles of Object-Oriented Programming Explained in Plain English - FreeCodeCamp](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+2. [Mastering SOLID Principles: A Comprehensive Guide for Software Engineers - Medium](https://medium.com/@GetInRhythm/mastering-solid-principles-a-comprehensive-guide-for-software-engineers-da53b054c9e1)
+3. [SOLID Principles with Real Life Examples - GeeksForGeeks](https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/)
